@@ -1,6 +1,6 @@
 ## Rowdy Calculator
 
-#Description: A simple Java calculator! 
+# Description: A simple Java calculator! 
 
 ---
 
