@@ -1,10 +1,10 @@
-## Rowdy Calculator
+# Rowdy Calculator
 
-# Description: A simple Java calculator! 
+### Description: A simple Java calculator! 
 
 ---
 
-# 📍 Project Information
+## 📍 Project Information
 - Project Name: Rowdy Calculator
 - Created By: Anusha Abdulla
 - Collaborators: n/a
